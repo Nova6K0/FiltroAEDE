@@ -47,7 +47,7 @@
 ||correofarmaceutico.com^$script
 ||dalealplay.com^$script
 ||dbalears.cat^$script
-||deia.com^$script
+||deia.eus^$script
 ||diaridegirona.cat^$script
 ||diaridetarragona.com^$script
 ||diarideterrassa.es^$script
@@ -182,8 +182,8 @@
 ||mujerhoy.com^$script
 ||mundodeportivo.com^$script
 ||nintenderos.com^$script
-||noticiasdealava.com^$script
-||noticiasdegipuzkoa.com^$script
+||noticiasdealava.eus^$script
+||noticiasdegipuzkoa.eus^$script
 ||noticiasdenavarra.com^$script
 ||objetiva.com.br^$script
 ||objetiva.pt^$script
@@ -284,7 +284,7 @@ corazon.cl##body
 correofarmaceutico.com##body
 dalealplay.com##body
 dbalears.cat##body
-deia.com##body
+deia.eus##body
 diaridegirona.cat##body
 diaridetarragona.com##body
 diarideterrassa.es##body
@@ -419,8 +419,8 @@ motormercado.com##body
 mujerhoy.com##body
 mundodeportivo.com##body
 nintenderos.com##body
-noticiasdealava.com##body
-noticiasdegipuzkoa.com##body
+noticiasdealava.eus##body
+noticiasdegipuzkoa.eus##body
 noticiasdenavarra.com##body
 objetiva.com.br##body
 objetiva.pt##body
